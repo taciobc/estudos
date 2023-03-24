@@ -1,2 +1,3 @@
 # projeto-das-redes-sociais
-redes
+
+eu vou ser um programador
